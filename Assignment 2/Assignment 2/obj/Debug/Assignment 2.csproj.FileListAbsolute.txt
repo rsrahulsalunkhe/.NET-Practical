@@ -1,0 +1,7 @@
+F:\MCA\dotnet\.NET-Practical\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+F:\MCA\dotnet\.NET-Practical\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+F:\MCA\dotnet\.NET-Practical\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+F:\MCA\dotnet\.NET-Practical\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.AssemblyReference.cache
+F:\MCA\dotnet\.NET-Practical\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+F:\MCA\dotnet\.NET-Practical\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+F:\MCA\dotnet\.NET-Practical\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
