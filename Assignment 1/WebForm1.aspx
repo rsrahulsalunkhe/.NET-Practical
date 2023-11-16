@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="Assignment_1.WebForm1" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="Practical01.WebForm1" %>
 
 <!DOCTYPE html>
 
@@ -9,17 +9,11 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Label ID="Label1" runat="server" Text="From"></asp:Label>
-            <br />
-            <asp:Label ID="Label2" runat="server" Text="First Name"></asp:Label>
-            <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
-            <br />
-            <asp:Label ID="Label3" runat="server" Text="Last Name"></asp:Label>
-            <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
-            <br />
-            <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Button1_Click" />
-            <br />
-            <asp:Label ID="Label4" runat="server" Text="Label"></asp:Label>
+            <!-- Display the Page Life Cycle events -->
+            <asp:Label ID="myLabel" runat="server" Text="Page Life Cycle Events:" ForeColor="Green" Font-Bold="true"></asp:Label>
+            <br /><br />
+            <!-- A button to trigger the Button_Click event -->
+            <asp:Button ID="Button1" runat="server" Text="Click me!" OnClick="Button1_Click" />
         </div>
     </form>
 </body>
